@@ -1,7 +1,6 @@
-class hungry
-{
-	public static void main(String args[])
-	{
-		system.out.println("i am hungry");
-	}
+public class hungry {
+    public static void main(String[] args) {
+System.out.println("i am hungry");        
+    }
+    
 }
