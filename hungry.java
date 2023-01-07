@@ -3,11 +3,11 @@ public class hungry {
         int i=0;
         if(i==0)
         {
-            System.out.println("i am hungry "); 
+            System.out.println("i am hungry"); 
         }
         else
         {
-            System.out.println("i am thirsty and want water blah blahh");
+            System.out.println("i am thirsty and want water");
         }        
     }
     
