@@ -7,7 +7,7 @@ public class hungry {
         }
         else
         {
-            System.out.println("i am thirsty and want water");
+            System.out.println("i am thirsty and want water blah blahh");
         }        
     }
     
