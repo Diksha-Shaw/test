@@ -3,7 +3,7 @@ public class hungry {
         int i=0;
         if(i==0)
         {
-            System.out.println("i am hungry"); 
+            System.out.println("i am hungry blah blah"); 
         }
         else
         {
